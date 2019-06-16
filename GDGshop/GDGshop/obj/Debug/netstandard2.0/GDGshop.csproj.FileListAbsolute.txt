@@ -1,0 +1,12 @@
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\bin\Debug\netstandard2.0\GDGshop.deps.json
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\bin\Debug\netstandard2.0\GDGshop.dll
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\bin\Debug\netstandard2.0\GDGshop.pdb
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\obj\Debug\netstandard2.0\GDGshop.csprojAssemblyReference.cache
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\obj\Debug\netstandard2.0\GDGshop.csproj.CoreCompileInputs.cache
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\obj\Debug\netstandard2.0\GDGshop.AssemblyInfoInputs.cache
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\obj\Debug\netstandard2.0\GDGshop.AssemblyInfo.cs
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\obj\Debug\netstandard2.0\GDGshop.dll
+C:\Users\Ans\source\repos\GDGshop\GDGshop\GDGshop\obj\Debug\netstandard2.0\GDGshop.pdb
