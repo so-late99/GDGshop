@@ -723,11 +723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ans\\source\\repos\\GDGshop\\GDGshop\\GDGshop.iOS\\GDGshop.iOS.csproj",
+      "projectUniqueName": "E:\\ANS\\project\\GDGshop\\GDGshop\\GDGshop\\GDGshop.iOS\\GDGshop.iOS.csproj",
       "projectName": "GDGshop.iOS",
-      "projectPath": "C:\\Users\\Ans\\source\\repos\\GDGshop\\GDGshop\\GDGshop.iOS\\GDGshop.iOS.csproj",
+      "projectPath": "E:\\ANS\\project\\GDGshop\\GDGshop\\GDGshop\\GDGshop.iOS\\GDGshop.iOS.csproj",
       "packagesPath": "C:\\Users\\Ans\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ans\\source\\repos\\GDGshop\\GDGshop\\GDGshop.iOS\\obj\\",
+      "outputPath": "E:\\ANS\\project\\GDGshop\\GDGshop\\GDGshop\\GDGshop.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -744,8 +744,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Ans\\source\\repos\\GDGshop\\GDGshop\\GDGshop\\GDGshop.csproj": {
-              "projectPath": "C:\\Users\\Ans\\source\\repos\\GDGshop\\GDGshop\\GDGshop\\GDGshop.csproj"
+            "E:\\ANS\\project\\GDGshop\\GDGshop\\GDGshop\\GDGshop\\GDGshop.csproj": {
+              "projectPath": "E:\\ANS\\project\\GDGshop\\GDGshop\\GDGshop\\GDGshop\\GDGshop.csproj"
             }
           }
         }

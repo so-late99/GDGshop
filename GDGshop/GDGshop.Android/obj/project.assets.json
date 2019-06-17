@@ -766,11 +766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ans\\source\\repos\\GDGshop\\GDGshop\\GDGshop.Android\\GDGshop.Android.csproj",
+      "projectUniqueName": "E:\\ANS\\project\\GDGshop\\GDGshop\\GDGshop\\GDGshop.Android\\GDGshop.Android.csproj",
       "projectName": "GDGshop.Android",
-      "projectPath": "C:\\Users\\Ans\\source\\repos\\GDGshop\\GDGshop\\GDGshop.Android\\GDGshop.Android.csproj",
+      "projectPath": "E:\\ANS\\project\\GDGshop\\GDGshop\\GDGshop\\GDGshop.Android\\GDGshop.Android.csproj",
       "packagesPath": "C:\\Users\\Ans\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ans\\source\\repos\\GDGshop\\GDGshop\\GDGshop.Android\\obj\\",
+      "outputPath": "E:\\ANS\\project\\GDGshop\\GDGshop\\GDGshop\\GDGshop.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -787,8 +787,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Ans\\source\\repos\\GDGshop\\GDGshop\\GDGshop\\GDGshop.csproj": {
-              "projectPath": "C:\\Users\\Ans\\source\\repos\\GDGshop\\GDGshop\\GDGshop\\GDGshop.csproj"
+            "E:\\ANS\\project\\GDGshop\\GDGshop\\GDGshop\\GDGshop\\GDGshop.csproj": {
+              "projectPath": "E:\\ANS\\project\\GDGshop\\GDGshop\\GDGshop\\GDGshop\\GDGshop.csproj"
             }
           }
         }
